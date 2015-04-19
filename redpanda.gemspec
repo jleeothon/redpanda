@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'redpanda'
-  s.version     = '0.1.1'
+  s.version     = '0.1.0'
   s.date        = '2015-04-18'
   s.summary     = "Make a red panda say something cute"
   s.description = "Red panda!"
